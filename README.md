@@ -1,0 +1,2 @@
+# LinEQ
+Linear Equation Plotter 
